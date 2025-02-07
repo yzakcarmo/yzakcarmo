@@ -1,8 +1,13 @@
 ### Olá 👋
 
-#### Um Analista de Performance Digital de dia ☼ e um DEV Back-end quando consigo 😁
+#### Um DEV Fullstack, na maior parte do tempo Backend Java 😁
 
-Alguém que já trabalhou com suporte de software para a prefeitura local, como DEV Back-end em uma startup e agora me aventurando com analise de canais digitais(Chatbot, URA, disparos automatizados);<br>
+Atuo no setor desde 2018, tendo colaborado em projetos significativos, como sistemas de comunicação omnichannel e plataformas de gestão de compras, sempre priorizando a qualidade de código e a experiência do usuário.<br>
 
-- ⚙️ No dia a dia uso: `Excel`, `PowerBI`, `Microsoft SQL Server`
-- 📖 Estudando `Java`, `Spring`, `Angular`, `Docker`
+Gosto de novos desafios em ambientes dinâmicos e com equipes multidisciplinares. Bora trocar ideias sobre tecnologia e desenvolvimento de software!<br>
+
+- 💻 Linguagens: `Java`, `TypeScript`, `JavaScript`
+- ⚙️ Frameworks: `Spring Boot`, `Angular`, `ExpressJS`
+- 🛢️ Bancos de dados: `PostgreSQL`, `MySQL`, `SQLServer`
+- 🔧 Ferramentas de Qualidade: `Mockito`, `JUnit`, `Jacoco`, `Sonar`
+- 🧰 Container: `Docker`
